@@ -1,0 +1,93 @@
+[pmhapsekar@ubuntu 03]$
+Enter the number : 77
+Enter number? (y/n) : 
+Enter the number : 65
+Enter number? (y/n) : 
+Enter the number : 40
+Enter number? (y/n) : 
+Enter the number : 99
+Enter number? (y/n) : 
+Enter the number : 4
+Enter number? (y/n) : 
+Enter the number : 47
+Enter number? (y/n) : 
+Enter the number : 67
+Enter number? (y/n) : 
+Enter the number : 41
+Enter number? (y/n) : 
+Enter the number : 23
+Enter number? (y/n) : 
+Enter the number : 81
+Enter number? (y/n) : 
+Enter the number : 73
+Enter number? (y/n) : 
+Enter the number : 8
+Enter number? (y/n) : 
+Enter the number : 100
+Enter number? (y/n) : 
+Enter the number : 35
+Enter number? (y/n) : 
+Enter the number : 91
+Enter number? (y/n) : 
+Enter the number : 58
+Enter number? (y/n) : 
+Enter the number : 59
+Enter number? (y/n) : 
+Enter the number : 25
+Enter number? (y/n) : 
+Enter the number : 15
+Enter number? (y/n) : 
+Enter the number : 38
+Enter number? (y/n) : 
+Enter the number : 95
+Enter number? (y/n) : 
+Enter the number : 60
+Enter number? (y/n) : 
+Enter the number : 20
+Enter number? (y/n) : 
+Enter the number : 7
+Enter number? (y/n) : 
+Enter the number : 50
+Enter number? (y/n) : 
+Enter the number : 10
+Enter number? (y/n) : n
+
+Printing array in origional form:
+14, 17, 56, 85, 22, 97, 33, 71, 19, 62, 38, 44, 51, 29, 77, 65, 40, 99,  4, 47, 67, 41, 23, 81, 73,  8,100, 35, 91, 58, 59, 25, 15, 38, 95, 60, 20,  7, 50, 10.
+
+Printing array in reverse form:
+10, 50,  7, 20, 60, 95, 38, 15, 25, 59, 58, 91, 35,100,  8, 73, 81, 23, 41, 67, 47,  4, 99, 40, 65, 77, 29, 51, 44, 38, 62, 19, 71, 33, 97, 22, 85, 56, 17, 14.
+
+Printing array in sorted form:
+4,  7,  8, 10, 14, 15, 17, 19, 20, 22, 23, 25, 29, 33, 35, 38, 38, 40, 41, 44, 47, 50, 51, 56, 58, 59, 60, 62, 65, 67, 71, 73, 77, 81, 85, 91, 95, 97, 99,100
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 44
+Entered number 44 is at index 11
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 71
+Entered number 71 is at index  7
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 5
+Entered number 5 is not present in the array
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 38
+Entered number 38 is at index 10
+Entered number 38 is at index 33
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 95
+Entered number 95 is at index 34
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 22
+Entered number 22 is at index  4
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 61
+Entered number 61 is not present in the array
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 0
+Entered number 0 is not present in the array
+Do you want to enter number to get its index? (Y/N) : y
+Enter the number : 47
+Entered number 47 is at index 19
+Do you want to enter number to get its index? (Y/N) : n
+Good bye!!!
+[pmhapsekar@ubuntu 03]$

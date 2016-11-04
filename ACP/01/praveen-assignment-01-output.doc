@@ -1,0 +1,17 @@
+[pmhapsekar@ubuntu 01]$ a
+Menu:
+1. Fahrenehit to Centigrade
+2. Centigrade to Fahrenehit
+Please enter your choice:1
+Please enter value of Fahrenehit :104
+Fahrenhit scale 104, equivalent Centigrade scale is 40
+
+[pmhapsekar@ubuntu 01]$ a
+Menu:
+1. Fahrenehit to Centigrade
+2. Centigrade to Fahrenehit
+Please enter your choice:2
+Please enter value of Centigrade :40
+Fahrenhit scale 40, equivalent Centigrade scale is 104
+[pmhapsekar@ubuntu 01]$ 
+

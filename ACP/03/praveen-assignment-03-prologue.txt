@@ -1,0 +1,24 @@
+/******************************************************************************/
+/*****************************  prologue  *************************************/
+/*                                                                            */
+/*    University of California Extension, Santa Cruz                          */
+/*                                                                            */
+/*    Advanced C Programming                                                  */
+/*                                                                            */
+/*    Instructor: Rajainder A. Yeldandi                                       */
+/*                                                                            */
+/*    Author: Praveen Mhapsekar                                               */
+/*                                                                            */
+/*    Assignment Number: 03                                                   */
+/*                                                                            */
+/*                                                                            */
+/*    Topic: Chapter 6 (Array)                                                */
+/*                                                                            */
+/*    File name:  praveen-assignment-03.c                                     */
+/*                                                                            */
+/*    Date: 10/14/2016                                                        */
+/*                                                                            */
+/*    Objective: Program for array manipulation                               */
+/*                                                                            */
+/*    Comments: Write your comments or questions in red                       */
+/******************************************************************************/

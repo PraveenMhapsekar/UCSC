@@ -1,0 +1,91 @@
+
+
+Student Id : 1000
+MaximumSocre 58 in subject[3]
+MinimumSocre 97 in subject[7]
+AverageScore is  80 AverageGrade is B-
+Subject[0] -  91 grade A-
+Subject[1] -  92 grade A-
+Subject[2] -  85 grade B
+Subject[3] -  58 grade F
+Subject[4] -  87 grade B+
+Subject[5] -  75 grade C+
+Subject[6] -  89 grade B+
+Subject[7] -  97 grade A+
+Subject[8] -  79 grade C+
+Subject[9] -  65 grade D
+
+Student Id : 1001
+MaximumSocre 61 in subject[5]
+MinimumSocre 94 in subject[3]
+AverageScore is  76 AverageGrade is C+
+Subject[0] -  88 grade B+
+Subject[1] -  72 grade C-
+Subject[2] -  81 grade B-
+Subject[3] -  94 grade A-
+Subject[4] -  90 grade A-
+Subject[5] -  61 grade D
+Subject[6] -  72 grade C-
+Subject[7] -  75 grade C+
+Subject[8] -  68 grade D
+Subject[9] -  77 grade C+
+
+Student Id : 1002
+MaximumSocre 44 in subject[8]
+MinimumSocre 87 in subject[2]
+AverageScore is  62 AverageGrade is D
+Subject[0] -  75 grade C+
+Subject[1] -  49 grade F
+Subject[2] -  87 grade B+
+Subject[3] -  79 grade C+
+Subject[4] -  65 grade D
+Subject[5] -  64 grade D
+Subject[6] -  62 grade D
+Subject[7] -  51 grade F
+Subject[8] -  44 grade F
+Subject[9] -  70 grade C-
+
+Student Id : 1003
+MaximumSocre 55 in subject[9]
+MinimumSocre 87 in subject[7]
+AverageScore is  73 AverageGrade is C-
+Subject[0] -  81 grade B-
+Subject[1] -  72 grade C-
+Subject[2] -  85 grade B
+Subject[3] -  78 grade C+
+Subject[4] -  77 grade C+
+Subject[5] -  75 grade C+
+Subject[6] -  79 grade C+
+Subject[7] -  87 grade B+
+Subject[8] -  69 grade D
+Subject[9] -  55 grade F
+
+Student Id : 1004
+MaximumSocre 62 in subject[1]
+MinimumSocre 88 in subject[0]
+AverageScore is  72 AverageGrade is C-
+Subject[0] -  88 grade B+
+Subject[1] -  62 grade D
+Subject[2] -  71 grade C-
+Subject[3] -  74 grade C-
+Subject[4] -  80 grade B-
+Subject[5] -  71 grade C-
+Subject[6] -  62 grade D
+Subject[7] -  85 grade B
+Subject[8] -  68 grade D
+Subject[9] -  87 grade B+
+
+Student Id : 1005
+MaximumSocre 48 in subject[5]
+MinimumSocre 97 in subject[2]
+AverageScore is  72 AverageGrade is C-
+Subject[0] -  75 grade C+
+Subject[1] -  89 grade B+
+Subject[2] -  97 grade A+
+Subject[3] -  79 grade C+
+Subject[4] -  65 grade D
+Subject[5] -  48 grade F
+Subject[6] -  72 grade C-
+Subject[7] -  61 grade D
+Subject[8] -  64 grade D
+Subject[9] -  90 grade A-

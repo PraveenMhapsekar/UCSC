@@ -1,0 +1,24 @@
+/******************************************************************************/
+/*****************************  prologue  *************************************/
+/*                                                                            */
+/*    University of California Extension, Santa Cruz                          */
+/*                                                                            */
+/*    Advanced C Programming                                                  */
+/*                                                                            */
+/*    Instructor: Rajainder A. Yeldandi                                       */
+/*                                                                            */
+/*    Author: Praveen Mhapsekar                                               */
+/*                                                                            */
+/*    Assignment Number: 01                                                   */
+/*                                                                            */
+/*                                                                            */
+/*    Topic: Chapter or topic name (like: Binary Trees)                       */
+/*                                                                            */
+/*    File name: name of the file                                             */
+/*                                                                            */
+/*    Date: Date of the program                                               */
+/*                                                                            */
+/*    Objective: Write the purpose of the program.                            */
+/*                                                                            */
+/*    Comments: Write your comments or questions in red                       */
+/******************************************************************************/

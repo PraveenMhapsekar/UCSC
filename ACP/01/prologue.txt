@@ -1,0 +1,24 @@
+/******************************************************************************/
+/*****************************  prologue  *************************************/
+/*                                                                            */
+/*    University of California Extension, Santa Cruz                          */
+/*                                                                            */
+/*    Advanced C Programming                                                  */
+/*                                                                            */
+/*    Instructor: Rajainder A. Yeldandi                                       */
+/*                                                                            */
+/*    Author: Praveen Mhapsekar                                               */
+/*                                                                            */
+/*    Assignment Number: 01                                                   */
+/*                                                                            */
+/*                                                                            */
+/*    Topic: Chapter  1 & 2                                                   */
+/*                                                                            */
+/*    File name:  praveen-assignment-01.c                                     */
+/*                                                                            */
+/*    Date: 10/14/2016                                                        */
+/*                                                                            */
+/*    Objective: Program for temperature conversion                           */
+/*                                                                            */
+/*    Comments: Write your comments or questions in red                       */
+/******************************************************************************/
