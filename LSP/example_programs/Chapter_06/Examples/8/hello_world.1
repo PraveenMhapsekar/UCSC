@@ -1,0 +1,59 @@
+.\" Process this file with
+.\" groff -man -Tascii foo.1
+.\"
+.TH FOO 1 "August 2009" Linux "User Manuals"
+.SH NAME
+hello_world \- hello_world my very own first 'c' program.
+.SH SYNOPSIS
+.B hello_world [-h] [-c
+.I command-file
+.B ]
+.I file
+.B ...
+.SH DESCRIPTION
+.B hello_world
+is a simple c program.  The name 
+.BR ‘hello_world’ (1)
+represents the .c as written by me. 
+.SH OPTIONS
+.IP -h
+display help on options.
+.IP "-c command-file"
+accept commands in
+.I config-file
+to execute. Alternatively,
+.IR ~/.hello_worldrc 
+can be used. It overrides any
+.B MYSHCONF
+environment variable.
+.SH FILES
+.I ~/.hello_worldrc
+.RS
+The user specific command file. See
+.BR .hello_worldrc (5)
+for further details.
+.RE
+.SH ENVIRONMENT
+.IP MYSHCONF
+If it is non-null, then the full pathname for an alternate command file
+.IR ~/.hello_worldrc 
+.SH DIAGNOSTICS
+The following diagnostics may be issued on stderr:
+ 
+Bad Command or Filename.
+.RS
+The Command was not recognized.
+.RE
+Invalid Input.
+.RS
+.B hello_world
+can only a limited-set of commands. Try using a different program.
+.SH BUGS
+This is an experimental program.  Use at your own risk.
+.SH AUTHOR
+Raghav Vinjamuri - Linux Systems Programming <lsp at hello_world dot net>
+.SH "SEE ALSO"
+.BR hello_world2 (1),
+.BR .hello_worldrc (5),
+.BR hello_world3 (1)
+
