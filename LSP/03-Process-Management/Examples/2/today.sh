@@ -1,0 +1,1 @@
+echo "TODAY=$TODAY"
