@@ -1,0 +1,58 @@
+.\" Process this file with
+.\" groff -man -Tascii foo.1
+.\"
+.TH MYSH 1 "August 2009" Linux "User Manuals"
+.SH NAME
+mysh \- mysh my very own first shell program
+.SH SYNOPSIS
+.B mysh [-h] [-c
+.I command-file
+.B ]
+.I file
+.B ...
+.SH DESCRIPTION
+.B mysh
+is the shell or command language interpreter for Linux.  The name 
+.BR ‘mysh’ (1)
+represents the first shell program as written by me. 
+.SH OPTIONS
+.IP -h
+display help on options.
+.IP "-c command-file"
+accept commands in
+.I config-file
+to execute. Alternatively,
+.IR ~/.myshrc 
+can be used. It overrides any
+.B MYSHCONF
+environment variable.
+.SH FILES
+.I ~/.myshrc
+.RS
+The user specific command file. See
+.BR .myshrc (5)
+for further details.
+.RE
+.SH ENVIRONMENT
+.IP MYSHCONF
+If it is non-null, then the full pathname for an alternate command file
+.IR ~/.myshrc 
+.SH DIAGNOSTICS
+The following diagnostics may be issued on stderr:
+ 
+Bad Command or Filename.
+.RS
+The Command was not recognized.
+.RE
+Invalid Input.
+.RS
+.B mysh
+can only a limited-set of commands. Try using a different shell.
+.SH BUGS
+This is an experimental shell.  Use at your own risk.
+.SH AUTHOR
+Raghav Vinjamuri - Linux Systems Programming <lsp at mysh dot net>
+.SH "SEE ALSO"
+.BR mysh2 (1),
+.BR .myshrc (5),
+.BR mysh3 (1)
