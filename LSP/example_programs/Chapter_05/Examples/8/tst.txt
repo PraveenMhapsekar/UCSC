@@ -1,3 +1,0 @@
-cat tst.txt
-ps -f
-ls -l
