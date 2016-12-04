@@ -26,7 +26,7 @@
 #include <string.h>
 
 /* Tic-Tac-Toe grid size  */
-#define N 3  
+#define N 4
 
 /* Tic-Tac-Toe play array */
 char A[N][N];
