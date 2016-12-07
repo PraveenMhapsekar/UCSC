@@ -26,16 +26,49 @@
 /******************************************************************************/
 
 #include <stdio.h>
+#include "stack.h"
 
 void
 fileProcessing()
 {
+    stack_t *S;
+    char n;
     FILE *fp;
+    char token;
+    char tempToken;
+
     fp = fopen("praveen-assignment-08-input.doc", "r");
+    createStack(&S, sizeof(n));     
 
+    while ((token = fgetc(fp)) != EOF) {
+        printf("\nToken '%c' Action ", token);
+        switch (token) {
+            case '{' :
+            case '(' :
+            case '[' :    
+                printf("push\n");
+                push(S, &token);
+                break;
+            case '}' :
+            case ')' :
+            case ']' :    
+                printf("pop\n");
+                if (!pop(S, &tempToken)) {
+                    printf("equation is not correct\n");
+                }
+                break;
+            default:
+                printf("ignore\n");
+                break;
+        }
+        fflush(stdout);
+    }
+    if (!pop(S, &tempToken))
+        printf("equation is correct\n");
+    else
+        printf("equation is not correct\n");
+    fclose(fp);
 }
-
-
 
 int
 main(void) 
