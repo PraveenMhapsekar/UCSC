@@ -22,29 +22,27 @@
 /*                                                                            */
 /*    Comments: Write your comments or questions in red                       */
 /******************************************************************************/
-
 #include <stdio.h>
 
+#define N 5
 #define FILE_OUT "praveen-assignment-10-output.doc"
 
-#define N 5
-
-FILE *fout;   /* Output file pointer */
+FILE *fout; /* Output file pointer */
 
 void
 move(char from, char to, int n)
 {
-
    fprintf(fout, "moving %d from %c to %c\n", n, from, to);
 }
 
 void
 towerOfHanoi(int n, char src, char dst, char aux)
 {
-	if (n == 1) {
+	if (n == 1) { /* base case */
 		move(src, dst, n);
 		return;
 	}
+
 	towerOfHanoi(n - 1, src, aux, dst);
 	move(src, dst, n);
 	towerOfHanoi(n - 1, aux, dst, src);
@@ -53,10 +51,10 @@ towerOfHanoi(int n, char src, char dst, char aux)
 int
 main(void) 
 {
-	/* open input & output files */
-    fout = fopen(FILE_OUT, "w");
-    towerOfHanoi(N, 'A', 'C', 'B');
+	/* open output files */
+	fout = fopen(FILE_OUT, "w");
+	towerOfHanoi(N, 'A', 'C', 'B');
 	fclose(fout);
 
-    return 0;
+	return 0;
 }
