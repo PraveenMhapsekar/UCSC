@@ -11,7 +11,7 @@
 /*                                                                            */
 /*    Assignment Number: 08                                                   */
 /*                                                                            */
-/*    Topic: Chapter 07 Stack                                                 */
+/*    Topic: Stack                                                            */
 /*                                                                            */
 /*    File name:  praveen-assignment-08.c                                     */
 /*                                                                            */
@@ -28,51 +28,68 @@
 #include <stdio.h>
 #include "stack.h"
 
+#define FILE_IN  "praveen-assignment-08-input.doc"
+#define FILE_OUT "praveen-assignment-08-output.doc"
+
 void
-fileProcessing()
+inputFileProcessing()
 {
+    FILE *finput;
+	FILE *fout;
     stack_t *S;
-    char n;
-    FILE *fp;
     char token;
-    char tempToken;
 
-    fp = fopen("praveen-assignment-08-input.doc", "r");
-    createStack(&S, sizeof(n));     
+	/* Open input & output files */
+    finput = fopen(FILE_IN, "r");
+    fout = fopen(FILE_OUT, "w");
 
-    while ((token = fgetc(fp)) != EOF) {
-        printf("\nToken '%c' Action ", token);
+	/* Create stack */
+    createStack(&S, sizeof(char));     
+
+    while ((token = fgetc(finput)) != EOF) {
+        fprintf(fout, "Token '%c' - action ", token);
         switch (token) {
             case '{' :
             case '(' :
             case '[' :    
-                printf("push\n");
+				/* Print action and Push opening bracket to the stack */
+                fprintf(fout, "Push\n");
                 push(S, &token);
                 break;
             case '}' :
             case ')' :
             case ']' :    
-                printf("pop\n");
-                if (!pop(S, &tempToken)) {
-                    printf("equation is not correct\n");
+				/* Print action and pop matching opening brackets from the stack */
+                fprintf(fout, "Pop\n");
+                if (!pop(S, &token)) {
+					/* Stack empty, without matching closing bracket */
+                    fprintf(fout, "equation is not correct\n");
                 }
                 break;
             default:
-                printf("ignore\n");
+				/* Ignore any other symbols than opening/closing brackets */
+                fprintf(fout, "Ignore\n");
                 break;
         }
         fflush(stdout);
     }
-    if (!pop(S, &tempToken))
-        printf("equation is correct\n");
+
+	/* Check if stack is empty at the end of symbols processing */
+    if (!pop(S, &token))
+		/* If stack is empty, that means all opening and closing symbols matched */
+        fprintf(fout, "\nEquation is correctly formatted\n");
     else
-        printf("equation is not correct\n");
-    fclose(fp);
+		/* Stack is not empty, there was mismatch between opening/closing symbols */
+        fprintf(fout, "\nEquation is not in correct format\n");
+
+	/* close files */
+    fclose(finput);
+	fclose(fout);
 }
 
 int
 main(void) 
 {
-    fileProcessing();
+    inputFileProcessing();
     return 0;
 }

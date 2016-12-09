@@ -1,0 +1,108 @@
+Token '{' - action Push
+Token 'x' - action Ignore
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'y' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token '[' - action Push
+Token 'a' - action Ignore
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token 'b' - action Ignore
+Token ']' - action Pop
+Token ' ' - action Ignore
+Token ')' - action Pop
+Token ' ' - action Ignore
+Token '*' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'c' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token '[' - action Push
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'd' - action Ignore
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token 'e' - action Ignore
+Token ')' - action Pop
+Token ' ' - action Ignore
+Token ']' - action Pop
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token 'k' - action Ignore
+Token ' ' - action Ignore
+Token ')' - action Pop
+Token '}' - action Pop
+Token ' ' - action Ignore
+Token '/' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'h' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'j' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'k' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token '[' - action Push
+Token 'l' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token 'n' - action Ignore
+Token ']' - action Pop
+Token ' ' - action Ignore
+Token ')' - action Pop
+Token ' ' - action Ignore
+Token ')' - action Pop
+Token ' ' - action Ignore
+Token ')' - action Pop
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token '{' - action Push
+Token ' ' - action Ignore
+Token 'u' - action Ignore
+Token ' ' - action Ignore
+Token '+' - action Ignore
+Token ' ' - action Ignore
+Token '[' - action Push
+Token 'm' - action Ignore
+Token ' ' - action Ignore
+Token '*' - action Ignore
+Token ' ' - action Ignore
+Token '(' - action Push
+Token 'p' - action Ignore
+Token ' ' - action Ignore
+Token '-' - action Ignore
+Token ' ' - action Ignore
+Token 'q' - action Ignore
+Token ')' - action Pop
+Token ']' - action Pop
+Token ' ' - action Ignore
+Token '/' - action Ignore
+Token ' ' - action Ignore
+Token 'r' - action Ignore
+Token ' ' - action Ignore
+Token '}' - action Pop
+Token '
+' - action Ignore
+
+Equation is correctly formatted
