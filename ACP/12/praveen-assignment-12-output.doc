@@ -1,0 +1,105 @@
+[pmhapsekar@ubuntu 12]$ make
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+1
+Your want to use Bubble Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 0 
+Bubble Sort...
+0 4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+2
+Your want to use Selection Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Selection Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+3
+Your want to use Insertion Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Insertion Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+4
+Your want to use Bucket sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Bucket sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+5
+Your want to use Radix Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Radix Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+6
+Your want to use Quick Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Quick Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+7
+Your want to use Merge Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Merge Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+8
+Your want to use Heap Sort
+Array to be sorted is...
+49 17 56 85 12 97 33 71 19 62 38 84 51 29 77 65 44 99 4 47 67 41 23 88 73 8 100 25 91 58 59 22 15 35 95 60 20 7 50 10 100 
+Heap Sort...
+4 7 8 10 12 15 17 19 20 22 23 25 29 33 35 38 41 44 47 49 50 51 56 58 59 60 62 65 67 71 73 77 84 85 88 91 95 97 99 100 100 
+
+
+Menu:
+1. Bubble Sort     2. Selection Sort  3. Insertion Sort  4. Bucket sort     5. Radix Sort     
+6. Quick Sort      7. Merge Sort      8. Heap Sort      
+Enter your choice :
+^Cmake: *** [run] Interrupt
+
+
