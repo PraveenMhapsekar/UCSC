@@ -1,3 +1,42 @@
+/******************************************************************************/
+/*****************************  prologue  *************************************/
+/*                                                                            */
+/*    University of California Extension, Santa Cruz                          */
+/*                                                                            */
+/*    Advanced C Programming                                                  */
+/*                                                                            */
+/*    Instructor: Rajainder A. Yeldandi                                       */
+/*                                                                            */
+/*    Author: Praveen Mhapsekar                                               */
+/*                                                                            */
+/*    Assignment Number: 12                                                   */
+/*                                                                            */
+/*    Topic: Sort                                                             */
+/*                                                                            */
+/*    File name:  praveen-assignment-12.c                                     */
+/*                                                                            */
+/*    Date: 12/09/2016                                                        */
+/*                                                                            */
+/*    Objective                                                               */
+/*      Four simple sort routines ( Bubble sort, insertion sort, shell sort   */
+/*		selection sort) are discussed in the course. Call the sort routines   */
+/*		through the main routine with a menu. Again call one of the advanced  */
+/*		sort options (Quicksort, Heapsort, Megersort).                        */
+/*                                                                            */
+/*		User will pick one among the choice sort routines from simple sorts   */
+/*	   	and one from the advanced sort options.                               */
+/*                                                                            */
+/*		Read input from an input file directly as integers:                   */
+/*		49, 17, 56, 85, 12, 97, 33, 71, 19, 62, 38, 84, 51,                   */
+/*		29, 77, 65, 44, 99, 4, 47,67, 41, 23, 88, 73, 8, 100,                 */
+/*		25, 91, 58, 59, 22, 15, 35, 95, 60, 20, 7, 50, 10                     */
+/*                                                                            */
+/*		Implement one of the above sort routines and show the results of the  */
+/*		sort in the output.                                                   */
+/*		                                                                      */
+/*		Print the sorted output file for simple sort and advanced sort.       */
+/******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
