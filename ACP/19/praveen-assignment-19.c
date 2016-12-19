@@ -1,3 +1,26 @@
+/******************************************************************************/
+/*****************************  prologue  *************************************/
+/*                                                                            */
+/*    University of California Extension, Santa Cruz                          */
+/*                                                                            */
+/*    Advanced C Programming                                                  */
+/*                                                                            */
+/*    Instructor: Rajainder A. Yeldandi                                       */
+/*                                                                            */
+/*    Author: Praveen Mhapsekar                                               */
+/*                                                                            */
+/*    Assignment Number: 19                                                   */
+/*                                                                            */
+/*    Topic: Graph - Shortest Path                                            */
+/*                                                                            */
+/*    File name:  praveen-assignment-19.c                                     */
+/*                                                                            */
+/*    Date: 12/18/2016                                                        */
+/*                                                                            */
+/*    Objective :                                                             */
+/*     Shortest path for given graph                                          */
+/******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
