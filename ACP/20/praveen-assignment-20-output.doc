@@ -1,0 +1,99 @@
+cc     praveen-assignment-20.c queue.c   -o praveen-assignment-20
+./praveen-assignment-20
+Number of vertices :8
+
+Number of edges :14
+
+src vtx? :0
+dst vtx? :1
+weight?  :25
+
+src vtx? :0
+dst vtx? :2
+weight?  :65
+
+src vtx? :0
+dst vtx? :3
+weight?  :85
+
+src vtx? :1
+dst vtx? :2
+weight?  :30
+
+src vtx? :1
+dst vtx? :3
+weight?  :40
+
+src vtx? :2
+dst vtx? :4
+weight?  :60
+
+src vtx? :2
+dst vtx? :6
+weight?  :120
+
+src vtx? :3
+dst vtx? :4
+weight?  :75
+
+src vtx? :3
+dst vtx? :5
+weight?  :90
+
+src vtx? :3
+dst vtx? :6
+weight?  :130
+
+src vtx? :4
+dst vtx? :6
+weight?  :55
+
+src vtx? :5
+dst vtx? :6
+weight?  :50
+
+src vtx? :5
+dst vtx? :7
+weight?  :70
+
+src vtx? :6
+dst vtx? :7
+weight?  :40
+
+Cost matrix for given graph:
+ [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]
+ [0]    *   25   65   85    *    *    *    *
+ [1]    *    *   30   40    *    *    *    *
+ [2]    *    *    *    *   60    *  120    *
+ [3]    *    *    *    *   75   90  130    *
+ [4]    *    *    *    *    *    *   55    *
+ [5]    *    *    *    *    *    *   50   70
+ [6]    *    *    *    *    *    *    *   40
+ [7]    *    *    *    *    *    *    *    *
+
+
+ Path between vertex pairs 
+ Vertex	   Distance	Path
+ 0 -> 1		 25	0 1 
+ 0 -> 2		 55	0 1 2 
+ 0 -> 3		 65	0 1 3 
+ 0 -> 4		115	0 1 2 4 
+ 0 -> 5		155	0 1 3 5 
+ 0 -> 6		170	0 1 2 4 6 
+ 0 -> 7		210	0 1 2 4 6 7 
+
+ Minimum Spanning Tree (MST) on G
+ Minimum Spanning Tree (MST) edges are...
+ [0, 1] [1, 2] [1, 3] [6, 7] [5, 6] [4, 6] [2, 4] 
+
+ Flyod's all pair minimum cost
+ Allpair minimum cost matrix:
+	  [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]
+ [0]    *   25   55   65  115  155  170  210
+ [1]    *    *   30   40   90  130  145  185
+ [2]    *    *    *    *   60    *  115  155
+ [3]    *    *    *    *   75   90  130  160
+ [4]    *    *    *    *    *    *   55   95
+ [5]    *    *    *    *    *    *   50   70
+ [6]    *    *    *    *    *    *    *   40
+ [7]    *    *    *    *    *    *    *    *
