@@ -1,0 +1,615 @@
+./praveen-assignment-15
+
+----------- 0 ----------------
+key:key0
+Rec:fa37JncCHryD
+Inserting [ key = "key0", rec = "fa37JncCHryD" ] hashKey = 0
+0 Records inserted, current Loadfactor = 0
+
+----------- 1 ----------------
+key:key1
+Rec:sbzayy4cBWDx
+Inserting [ key = "key1", rec = "sbzayy4cBWDx" ] hashKey = 1
+1 Records inserted, current Loadfactor = 0
+
+----------- 2 ----------------
+key:key2
+Rec:S22JjzhMaiRr
+Inserting [ key = "key2", rec = "S22JjzhMaiRr" ] hashKey = 2
+2 Records inserted, current Loadfactor = 0
+
+----------- 3 ----------------
+key:key3
+Rec:V41mtzxlYvKW
+Inserting [ key = "key3", rec = "V41mtzxlYvKW" ] hashKey = 3
+3 Records inserted, current Loadfactor = 0
+
+----------- 4 ----------------
+key:key4
+Rec:rO72tK0LK0e1
+Inserting [ key = "key4", rec = "rO72tK0LK0e1" ] hashKey = 4
+4 Records inserted, current Loadfactor = 0
+
+----------- 5 ----------------
+key:key5
+Rec:zLOZ2nOXpPIh
+Inserting [ key = "key5", rec = "zLOZ2nOXpPIh" ] hashKey = 5
+5 Records inserted, current Loadfactor = 0
+
+----------- 6 ----------------
+key:key6
+Rec:MFSv8kP07U20
+Inserting [ key = "key6", rec = "MFSv8kP07U20" ] hashKey = 6
+6 Records inserted, current Loadfactor = 0
+
+----------- 7 ----------------
+key:key7
+Rec:o0J90xA0GWXI
+Inserting [ key = "key7", rec = "o0J90xA0GWXI" ] hashKey = 7
+7 Records inserted, current Loadfactor = 0
+
+----------- 8 ----------------
+key:key8
+Rec:Iwo7J4ogHFZQ
+Inserting [ key = "key8", rec = "Iwo7J4ogHFZQ" ] hashKey = 8
+8 Records inserted, current Loadfactor = 0
+
+----------- 9 ----------------
+key:key9
+Rec:xwQ2RQ0DRJKR
+Inserting [ key = "key9", rec = "xwQ2RQ0DRJKR" ] hashKey = 9
+9 Records inserted, current Loadfactor = 0
+
+----------- 10 ----------------
+key:key10
+Rec:ETPVzxlFrXL8
+Inserting [ key = "key10", rec = "ETPVzxlFrXL8" ] hashKey = 4
+10 Records inserted, current Loadfactor = 0
+
+----------- 11 ----------------
+key:key11
+Rec:b7mtKLHIGhIh
+Inserting [ key = "key11", rec = "b7mtKLHIGhIh" ] hashKey = 5
+11 Records inserted, current Loadfactor = 0
+
+----------- 12 ----------------
+key:key12
+Rec:5JuWcFwrgJKd
+Inserting [ key = "key12", rec = "5JuWcFwrgJKd" ] hashKey = 6
+12 Records inserted, current Loadfactor = 0
+
+----------- 13 ----------------
+key:key13
+Rec:E3t5bECALy3e
+Inserting [ key = "key13", rec = "E3t5bECALy3e" ] hashKey = 7
+13 Records inserted, current Loadfactor = 0
+
+----------- 14 ----------------
+key:key14
+Rec:KIwYxEF3V7Z8
+Inserting [ key = "key14", rec = "KIwYxEF3V7Z8" ] hashKey = 8
+14 Records inserted, current Loadfactor = 0
+
+----------- 15 ----------------
+key:key15
+Rec:KTx0nFe1IX5t
+Inserting [ key = "key15", rec = "KTx0nFe1IX5t" ] hashKey = 9
+15 Records inserted, current Loadfactor = 1
+
+----------- 16 ----------------
+key:key16
+Rec:jH22F5gXOa5L
+Inserting [ key = "key16", rec = "jH22F5gXOa5L" ] hashKey = 10
+16 Records inserted, current Loadfactor = 1
+
+----------- 17 ----------------
+key:key17
+Rec:nIMIQuOiNJj8
+Inserting [ key = "key17", rec = "nIMIQuOiNJj8" ] hashKey = 11
+17 Records inserted, current Loadfactor = 1
+
+----------- 18 ----------------
+key:key18
+Rec:YL8rqDiZSkZf
+Inserting [ key = "key18", rec = "YL8rqDiZSkZf" ] hashKey = 12
+18 Records inserted, current Loadfactor = 1
+
+----------- 19 ----------------
+key:key19
+Rec:oEDAmGTXXqqv
+Inserting [ key = "key19", rec = "oEDAmGTXXqqv" ] hashKey = 13
+19 Records inserted, current Loadfactor = 1
+
+----------- 20 ----------------
+key:key20
+Rec:kCd5WKE2fMtV
+Inserting [ key = "key20", rec = "kCd5WKE2fMtV" ] hashKey = 5
+20 Records inserted, current Loadfactor = 1
+
+----------- 21 ----------------
+key:key21
+Rec:Xa2zKae6opGY
+Inserting [ key = "key21", rec = "Xa2zKae6opGY" ] hashKey = 6
+21 Records inserted, current Loadfactor = 1
+
+----------- 22 ----------------
+key:key22
+Rec:4i6bYuUG67La
+Inserting [ key = "key22", rec = "4i6bYuUG67La" ] hashKey = 7
+22 Records inserted, current Loadfactor = 1
+
+----------- 23 ----------------
+key:key23
+Rec:SXd5tUbO4bNP
+Inserting [ key = "key23", rec = "SXd5tUbO4bNP" ] hashKey = 8
+23 Records inserted, current Loadfactor = 1
+
+----------- 24 ----------------
+key:key24
+Rec:B0TxnkWrSaQy
+Inserting [ key = "key24", rec = "B0TxnkWrSaQy" ] hashKey = 9
+24 Records inserted, current Loadfactor = 1
+
+----------- 25 ----------------
+key:key25
+Rec:UuEa0X9Q5mVw
+Inserting [ key = "key25", rec = "UuEa0X9Q5mVw" ] hashKey = 10
+25 Records inserted, current Loadfactor = 1
+
+----------- 26 ----------------
+key:key26
+Rec:G4JLgeipeBlQ
+Inserting [ key = "key26", rec = "G4JLgeipeBlQ" ] hashKey = 11
+26 Records inserted, current Loadfactor = 1
+
+----------- 27 ----------------
+key:key27
+Rec:tFFJpgHJYTrW
+Inserting [ key = "key27", rec = "tFFJpgHJYTrW" ] hashKey = 12
+27 Records inserted, current Loadfactor = 1
+
+----------- 28 ----------------
+key:key28
+Rec:z0w2kQw1UFK8
+Inserting [ key = "key28", rec = "z0w2kQw1UFK8" ] hashKey = 13
+28 Records inserted, current Loadfactor = 1
+
+----------- 29 ----------------
+key:key29
+Rec:u2yWBjw3yCMl
+Inserting [ key = "key29", rec = "u2yWBjw3yCMl" ] hashKey = 14
+29 Records inserted, current Loadfactor = 1
+
+----------- 30 ----------------
+key:key30
+Rec:qc4M3tt2un4c
+Inserting [ key = "key30", rec = "qc4M3tt2un4c" ] hashKey = 6
+30 Records inserted, current Loadfactor = 2
+
+----------- 31 ----------------
+key:key31
+Rec:DzdiEvq8vmf7
+Inserting [ key = "key31", rec = "DzdiEvq8vmf7" ] hashKey = 7
+31 Records inserted, current Loadfactor = 2
+
+----------- 32 ----------------
+key:key32
+Rec:TZAPjUAZ6Cu8
+Inserting [ key = "key32", rec = "TZAPjUAZ6Cu8" ] hashKey = 8
+32 Records inserted, current Loadfactor = 2
+
+----------- 33 ----------------
+key:key33
+Rec:6nAyYDamCCSQ
+Inserting [ key = "key33", rec = "6nAyYDamCCSQ" ] hashKey = 9
+33 Records inserted, current Loadfactor = 2
+
+----------- 34 ----------------
+key:key34
+Rec:7GX33A8WhGwR
+Inserting [ key = "key34", rec = "7GX33A8WhGwR" ] hashKey = 10
+34 Records inserted, current Loadfactor = 2
+
+----------- 35 ----------------
+key:key35
+Rec:k40pHuxNf5JE
+Inserting [ key = "key35", rec = "k40pHuxNf5JE" ] hashKey = 11
+35 Records inserted, current Loadfactor = 2
+
+----------- 36 ----------------
+key:key36
+Rec:ItyS3QrBgOCh
+Inserting [ key = "key36", rec = "ItyS3QrBgOCh" ] hashKey = 12
+36 Records inserted, current Loadfactor = 2
+
+----------- 37 ----------------
+key:key37
+Rec:WKCDa6eIAd7R
+Inserting [ key = "key37", rec = "WKCDa6eIAd7R" ] hashKey = 13
+37 Records inserted, current Loadfactor = 2
+
+----------- 38 ----------------
+key:key38
+Rec:V4mBA5NQxJt0
+Inserting [ key = "key38", rec = "V4mBA5NQxJt0" ] hashKey = 14
+38 Records inserted, current Loadfactor = 2
+
+----------- 39 ----------------
+key:key39
+Rec:jk9N6L5cdFnD
+Inserting [ key = "key39", rec = "jk9N6L5cdFnD" ] hashKey = 0
+39 Records inserted, current Loadfactor = 2
+
+----------- 40 ----------------
+key:key40
+Rec:LSWV3bvYghho
+Inserting [ key = "key40", rec = "LSWV3bvYghho" ] hashKey = 7
+40 Records inserted, current Loadfactor = 2
+
+----------- 41 ----------------
+key:key41
+Rec:l4EgN5e4poSt
+Inserting [ key = "key41", rec = "l4EgN5e4poSt" ] hashKey = 8
+41 Records inserted, current Loadfactor = 2
+
+----------- 42 ----------------
+key:key42
+Rec:7VVlkJw5jSYm
+Inserting [ key = "key42", rec = "7VVlkJw5jSYm" ] hashKey = 9
+42 Records inserted, current Loadfactor = 2
+
+----------- 43 ----------------
+key:key43
+Rec:4TKi92Ws4iYQ
+Inserting [ key = "key43", rec = "4TKi92Ws4iYQ" ] hashKey = 10
+43 Records inserted, current Loadfactor = 2
+
+----------- 44 ----------------
+key:key44
+Rec:oCSbysV6Nyp5
+Inserting [ key = "key44", rec = "oCSbysV6Nyp5" ] hashKey = 11
+44 Records inserted, current Loadfactor = 2
+
+----------- 45 ----------------
+key:key45
+Rec:Fl8wCfiE81uF
+Inserting [ key = "key45", rec = "Fl8wCfiE81uF" ] hashKey = 12
+45 Records inserted, current Loadfactor = 3
+
+----------- 46 ----------------
+key:key46
+Rec:1O736dRsouSm
+Inserting [ key = "key46", rec = "1O736dRsouSm" ] hashKey = 13
+46 Records inserted, current Loadfactor = 3
+
+----------- 47 ----------------
+key:key47
+Rec:mxq8tfB7PK3Z
+Inserting [ key = "key47", rec = "mxq8tfB7PK3Z" ] hashKey = 14
+47 Records inserted, current Loadfactor = 3
+
+----------- 48 ----------------
+key:key48
+Rec:zmn5lhLm5Qn9
+Inserting [ key = "key48", rec = "zmn5lhLm5Qn9" ] hashKey = 0
+48 Records inserted, current Loadfactor = 3
+
+----------- 49 ----------------
+key:key49
+Rec:2F2q9UatPR1G
+Inserting [ key = "key49", rec = "2F2q9UatPR1G" ] hashKey = 1
+49 Records inserted, current Loadfactor = 3
+
+----------- 50 ----------------
+key:key50
+Rec:4DNRVR0SBlXw
+Inserting [ key = "key50", rec = "4DNRVR0SBlXw" ] hashKey = 8
+50 Records inserted, current Loadfactor = 3
+
+----------- 51 ----------------
+key:key51
+Rec:QqgTFRdHgd5n
+Inserting [ key = "key51", rec = "QqgTFRdHgd5n" ] hashKey = 9
+51 Records inserted, current Loadfactor = 3
+
+----------- 52 ----------------
+key:key52
+Rec:5ffS4gi9r6YK
+Inserting [ key = "key52", rec = "5ffS4gi9r6YK" ] hashKey = 10
+52 Records inserted, current Loadfactor = 3
+
+----------- 53 ----------------
+key:key53
+Rec:VZmgIIaj8ECL
+Inserting [ key = "key53", rec = "VZmgIIaj8ECL" ] hashKey = 11
+53 Records inserted, current Loadfactor = 3
+
+----------- 54 ----------------
+key:key54
+Rec:fncKQh5TLkvP
+Inserting [ key = "key54", rec = "fncKQh5TLkvP" ] hashKey = 12
+54 Records inserted, current Loadfactor = 3
+
+----------- 55 ----------------
+key:key55
+Rec:PcYEg5ZBeJpu
+Inserting [ key = "key55", rec = "PcYEg5ZBeJpu" ] hashKey = 13
+55 Records inserted, current Loadfactor = 3
+
+----------- 56 ----------------
+key:key56
+Rec:bNdiZq3CbeW2
+Inserting [ key = "key56", rec = "bNdiZq3CbeW2" ] hashKey = 14
+56 Records inserted, current Loadfactor = 3
+
+----------- 57 ----------------
+key:key57
+Rec:JcTeKP4j1ayf
+Inserting [ key = "key57", rec = "JcTeKP4j1ayf" ] hashKey = 0
+57 Records inserted, current Loadfactor = 3
+
+----------- 58 ----------------
+key:key58
+Rec:fXqHqdCQ0n8X
+Inserting [ key = "key58", rec = "fXqHqdCQ0n8X" ] hashKey = 1
+58 Records inserted, current Loadfactor = 3
+
+----------- 59 ----------------
+key:key59
+Rec:b9jDnEF7oij8
+Inserting [ key = "key59", rec = "b9jDnEF7oij8" ] hashKey = 2
+59 Records inserted, current Loadfactor = 3
+
+----------- 60 ----------------
+key:key60
+Rec:5ls4MqjzLXF9
+Inserting [ key = "key60", rec = "5ls4MqjzLXF9" ] hashKey = 9
+60 Records inserted, current Loadfactor = 4
+
+----------- 61 ----------------
+key:key61
+Rec:APZ8CffopP1a
+Inserting [ key = "key61", rec = "APZ8CffopP1a" ] hashKey = 10
+61 Records inserted, current Loadfactor = 4
+
+----------- 62 ----------------
+key:key62
+Rec:dEfRuPX0AP2U
+Inserting [ key = "key62", rec = "dEfRuPX0AP2U" ] hashKey = 11
+62 Records inserted, current Loadfactor = 4
+
+----------- 63 ----------------
+key:key63
+Rec:DmSWHhgS6DaI
+Inserting [ key = "key63", rec = "DmSWHhgS6DaI" ] hashKey = 12
+63 Records inserted, current Loadfactor = 4
+
+----------- 64 ----------------
+key:key64
+Rec:rE4eb5EEJudC
+Inserting [ key = "key64", rec = "rE4eb5EEJudC" ] hashKey = 13
+64 Records inserted, current Loadfactor = 4
+
+----------- 65 ----------------
+key:key65
+Rec:HACPYCulwMIE
+Inserting [ key = "key65", rec = "HACPYCulwMIE" ] hashKey = 14
+65 Records inserted, current Loadfactor = 4
+
+----------- 66 ----------------
+key:key66
+Rec:1wg57ENyQSc1
+Inserting [ key = "key66", rec = "1wg57ENyQSc1" ] hashKey = 0
+66 Records inserted, current Loadfactor = 4
+
+----------- 67 ----------------
+key:key67
+Rec:VpFnjqz019PZ
+Inserting [ key = "key67", rec = "VpFnjqz019PZ" ] hashKey = 1
+67 Records inserted, current Loadfactor = 4
+
+----------- 68 ----------------
+key:key68
+Rec:LHIIbYWaSAfa
+Inserting [ key = "key68", rec = "LHIIbYWaSAfa" ] hashKey = 2
+68 Records inserted, current Loadfactor = 4
+
+----------- 69 ----------------
+key:key69
+Rec:M3WnT7oyw2jd
+Inserting [ key = "key69", rec = "M3WnT7oyw2jd" ] hashKey = 3
+69 Records inserted, current Loadfactor = 4
+
+----------- 70 ----------------
+key:key70
+Rec:sibrryODEhTp
+Inserting [ key = "key70", rec = "sibrryODEhTp" ] hashKey = 10
+70 Records inserted, current Loadfactor = 4
+
+----------- 71 ----------------
+key:key71
+Rec:FzQi73GT6kGX
+Inserting [ key = "key71", rec = "FzQi73GT6kGX" ] hashKey = 11
+71 Records inserted, current Loadfactor = 4
+
+----------- 72 ----------------
+key:key72
+Rec:r5Ul7DOxwxpl
+Inserting [ key = "key72", rec = "r5Ul7DOxwxpl" ] hashKey = 12
+72 Records inserted, current Loadfactor = 4
+
+----------- 73 ----------------
+key:key73
+Rec:wDyAuRx8OLoV
+Inserting [ key = "key73", rec = "wDyAuRx8OLoV" ] hashKey = 13
+73 Records inserted, current Loadfactor = 4
+
+----------- 74 ----------------
+key:key74
+Rec:P2zTmDzeITNN
+Inserting [ key = "key74", rec = "P2zTmDzeITNN" ] hashKey = 14
+74 Records inserted, current Loadfactor = 4
+
+----------- 75 ----------------
+key:key75
+Rec:ekLYh8KbLIjE
+Inserting [ key = "key75", rec = "ekLYh8KbLIjE" ] hashKey = 0
+75 Records inserted, current Loadfactor = 5
+
+----------- 76 ----------------
+key:key76
+Rec:ihK408aNAXrw
+Inserting [ key = "key76", rec = "ihK408aNAXrw" ] hashKey = 1
+76 Records inserted, current Loadfactor = 5
+
+----------- 77 ----------------
+key:key77
+Rec:koY1HwMtgfSL
+Inserting [ key = "key77", rec = "koY1HwMtgfSL" ] hashKey = 2
+77 Records inserted, current Loadfactor = 5
+
+----------- 78 ----------------
+key:key78
+Rec:nmx72gLiLfnK
+Inserting [ key = "key78", rec = "nmx72gLiLfnK" ] hashKey = 3
+78 Records inserted, current Loadfactor = 5
+
+----------- 79 ----------------
+key:key79
+Rec:lLhtsWpaKMZZ
+Inserting [ key = "key79", rec = "lLhtsWpaKMZZ" ] hashKey = 4
+79 Records inserted, current Loadfactor = 5
+
+----------- 80 ----------------
+key:key80
+Rec:GwTubvFNhAUh
+Inserting [ key = "key80", rec = "GwTubvFNhAUh" ] hashKey = 11
+80 Records inserted, current Loadfactor = 5
+
+----------- 81 ----------------
+key:key81
+Rec:ppQASDSBYA4O
+Inserting [ key = "key81", rec = "ppQASDSBYA4O" ] hashKey = 12
+81 Records inserted, current Loadfactor = 5
+
+----------- 82 ----------------
+key:key82
+Rec:etwzDWYTQzNz
+Inserting [ key = "key82", rec = "etwzDWYTQzNz" ] hashKey = 13
+82 Records inserted, current Loadfactor = 5
+
+----------- 83 ----------------
+key:key83
+Rec:ubMZlqHadfj3
+Inserting [ key = "key83", rec = "ubMZlqHadfj3" ] hashKey = 14
+83 Records inserted, current Loadfactor = 5
+
+----------- 84 ----------------
+key:key84
+Rec:sBEOJIkyAevN
+Inserting [ key = "key84", rec = "sBEOJIkyAevN" ] hashKey = 0
+84 Records inserted, current Loadfactor = 5
+
+----------- 85 ----------------
+key:key85
+Rec:ATpYRAYLlutV
+Inserting [ key = "key85", rec = "ATpYRAYLlutV" ] hashKey = 1
+85 Records inserted, current Loadfactor = 5
+
+----------- 86 ----------------
+key:key86
+Rec:j85MnoOfyc1H
+Inserting [ key = "key86", rec = "j85MnoOfyc1H" ] hashKey = 2
+86 Records inserted, current Loadfactor = 5
+
+----------- 87 ----------------
+key:key87
+Rec:vlF3N8QYaD41
+Inserting [ key = "key87", rec = "vlF3N8QYaD41" ] hashKey = 3
+87 Records inserted, current Loadfactor = 5
+
+----------- 88 ----------------
+key:key88
+Rec:OcK7VDcELgY8
+Inserting [ key = "key88", rec = "OcK7VDcELgY8" ] hashKey = 4
+88 Records inserted, current Loadfactor = 5
+
+----------- 89 ----------------
+key:key89
+Rec:SwlQXmiQVvTt
+Inserting [ key = "key89", rec = "SwlQXmiQVvTt" ] hashKey = 5
+89 Records inserted, current Loadfactor = 5
+
+----------- 90 ----------------
+key:key90
+Rec:4rPe5RdR4xYX
+Inserting [ key = "key90", rec = "4rPe5RdR4xYX" ] hashKey = 12
+90 Records inserted, current Loadfactor = 6
+
+----------- 91 ----------------
+key:key91
+Rec:B9lUpHdHCMgj
+Inserting [ key = "key91", rec = "B9lUpHdHCMgj" ] hashKey = 13
+91 Records inserted, current Loadfactor = 6
+
+----------- 92 ----------------
+key:key92
+Rec:7O7aHaRJRovW
+Inserting [ key = "key92", rec = "7O7aHaRJRovW" ] hashKey = 14
+92 Records inserted, current Loadfactor = 6
+
+----------- 93 ----------------
+key:key93
+Rec:GYvKUUrfba7Q
+Inserting [ key = "key93", rec = "GYvKUUrfba7Q" ] hashKey = 0
+93 Records inserted, current Loadfactor = 6
+
+----------- 94 ----------------
+key:key94
+Rec:pif15LiChpkx
+Inserting [ key = "key94", rec = "pif15LiChpkx" ] hashKey = 1
+94 Records inserted, current Loadfactor = 6
+
+----------- 95 ----------------
+key:key95
+Rec:NCGp0AJGgFYA
+Inserting [ key = "key95", rec = "NCGp0AJGgFYA" ] hashKey = 2
+95 Records inserted, current Loadfactor = 6
+
+----------- 96 ----------------
+key:key96
+Rec:hPnIxvgndJmg
+Inserting [ key = "key96", rec = "hPnIxvgndJmg" ] hashKey = 3
+96 Records inserted, current Loadfactor = 6
+
+----------- 97 ----------------
+key:key97
+Rec:fTqKGbHenWRl
+Inserting [ key = "key97", rec = "fTqKGbHenWRl" ] hashKey = 4
+97 Records inserted, current Loadfactor = 6
+
+----------- 98 ----------------
+key:key98
+Rec:gk2KxaVeyGuv
+Inserting [ key = "key98", rec = "gk2KxaVeyGuv" ] hashKey = 5
+98 Records inserted, current Loadfactor = 6
+
+----------- 99 ----------------
+key:key99
+Rec:9YinsTRVwIpC
+Inserting [ key = "key99", rec = "9YinsTRVwIpC" ] hashKey = 6
+99 Records inserted, current Loadfactor = 6
+
+
+Retriviving keys from hash table 
+----------------------------------
+Lookingup [ key = "key90" ] Lookup success [Val = "4rPe5RdR4xYX" ]
+Lookingup [ key = "key80" ] Lookup success [Val = "GwTubvFNhAUh" ]
+Lookingup [ key = "key70" ] Lookup success [Val = "sibrryODEhTp" ]
+Lookingup [ key = "key60" ] Lookup success [Val = "5ls4MqjzLXF9" ]
+Lookingup [ key = "key50" ] Lookup success [Val = "4DNRVR0SBlXw" ]
+Lookingup [ key = "key40" ] Lookup success [Val = "LSWV3bvYghho" ]
+Lookingup [ key = "key30" ] Lookup success [Val = "qc4M3tt2un4c" ]
+Lookingup [ key = "key20" ] Lookup success [Val = "kCd5WKE2fMtV" ]
+Lookingup [ key = "key99" ] Lookup success [Val = "9YinsTRVwIpC" ]
+
