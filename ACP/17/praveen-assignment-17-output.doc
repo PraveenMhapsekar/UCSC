@@ -1,0 +1,9 @@
+
+Read expresseion from input file and print it
+( 25 % 7 * 8 ) / ( 75 / 5 - 8 + ( 2 ^ 4 - ( 2 ^ 2 + 16 ) + 16 - 3 ) + 5 - 3 ^ 2 ) 
+
+
+Prefix output is
+/*% 25  7  8   / 75 +- 5  8  -^ 2  4  -+-++^ 2  2  16   16  3   5 ^ 3  2  
+
+
