@@ -1,0 +1,28 @@
+[pmhapsekar@ubuntu 07]$ a
+Enter initial row number:7
+Initial queen is placed in column 7 row 0
+8-Queen Solution #00:
+* 0 1 2 3 4 5 6 7 
+0 . . . . . . . Q 
+1 . . . . . Q . . 
+2 . . . Q . . . . 
+3 . Q . . . . . . 
+4 . . . . . . Q . 
+5 . . . . Q . . . 
+6 . . Q . . . . . 
+7 Q . . . . . . . 
+
+Do you want to continue? (y/n) : y
+Enter initial row number:0
+Initial queen is placed in column 0 row 0
+8-Queen Solution #01:
+* 0 1 2 3 4 5 6 7 
+0 . . . . . . . Q 
+1 . . . Q . . . . 
+2 Q . . . . . . . 
+3 . . Q . . . . . 
+4 . . . . . Q . . 
+5 . Q . . . . . . 
+6 . . . . . . Q . 
+7 . . . . Q . . . 
+
